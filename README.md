@@ -28,3 +28,7 @@ Data: {
     email: test@test.com
     password: test1234
 }
+
+## Users
+Method: GET
+URL:  http://localhost:8080/users
